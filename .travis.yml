@@ -19,4 +19,4 @@ deploy:
     repo: <your_github_username>/<your_repo_name>
 notifications:
  email:
-   - one@example.com(543334759@qq.com)
+   - 543334759@qq.com
